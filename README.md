@@ -1,4 +1,4 @@
-# ubuntuPy3
+# ubuntu_py3
 
 Dockerfile to build Ubuntu docker image with Python 3 and pip3
 
