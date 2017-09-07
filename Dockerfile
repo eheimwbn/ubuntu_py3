@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu
 
 #get updates && install python3
 run apt update && \
